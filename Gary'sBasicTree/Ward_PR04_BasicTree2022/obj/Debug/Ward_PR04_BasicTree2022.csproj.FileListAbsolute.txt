@@ -1,0 +1,10 @@
+C:\Users\local-gew557.USER-A29833V\source\repos\Ward_PR04_BasicTree2022\Ward_PR04_BasicTree2022\obj\Debug\Ward_PR04_BasicTree2022.csprojAssemblyReference.cache
+C:\Users\local-gew557.USER-A29833V\source\repos\Ward_PR04_BasicTree2022\Ward_PR04_BasicTree2022\obj\Debug\Ward_PR04_BasicTree2022.BasicTree.resources
+C:\Users\local-gew557.USER-A29833V\source\repos\Ward_PR04_BasicTree2022\Ward_PR04_BasicTree2022\obj\Debug\Ward_PR04_BasicTree2022.Properties.Resources.resources
+C:\Users\local-gew557.USER-A29833V\source\repos\Ward_PR04_BasicTree2022\Ward_PR04_BasicTree2022\obj\Debug\Ward_PR04_BasicTree2022.csproj.GenerateResource.cache
+C:\Users\local-gew557.USER-A29833V\source\repos\Ward_PR04_BasicTree2022\Ward_PR04_BasicTree2022\obj\Debug\Ward_PR04_BasicTree2022.csproj.CoreCompileInputs.cache
+C:\Users\local-gew557.USER-A29833V\source\repos\Ward_PR04_BasicTree2022\Ward_PR04_BasicTree2022\bin\Debug\Ward_PR04_BasicTree2022.exe.config
+C:\Users\local-gew557.USER-A29833V\source\repos\Ward_PR04_BasicTree2022\Ward_PR04_BasicTree2022\bin\Debug\Ward_PR04_BasicTree2022.exe
+C:\Users\local-gew557.USER-A29833V\source\repos\Ward_PR04_BasicTree2022\Ward_PR04_BasicTree2022\bin\Debug\Ward_PR04_BasicTree2022.pdb
+C:\Users\local-gew557.USER-A29833V\source\repos\Ward_PR04_BasicTree2022\Ward_PR04_BasicTree2022\obj\Debug\Ward_PR04_BasicTree2022.exe
+C:\Users\local-gew557.USER-A29833V\source\repos\Ward_PR04_BasicTree2022\Ward_PR04_BasicTree2022\obj\Debug\Ward_PR04_BasicTree2022.pdb
